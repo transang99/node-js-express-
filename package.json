@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transang99/node-js-express-.git"
+  },
+  "keywords": [
+    "học",
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "sangtran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transang99/node-js-express-/issues"
+  },
+  "homepage": "https://github.com/transang99/node-js-express-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
